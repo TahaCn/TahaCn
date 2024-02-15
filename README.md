@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahacn&label=Profile%20views&color=00ffee&style=flat" alt="tahacn" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java Spring**
 
-- 🌱 I’m currently learning **Java, C**
+- 🌱 I’m currently learning **Java Spring, C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TahaCn](https://github.com/TahaCn)
 
